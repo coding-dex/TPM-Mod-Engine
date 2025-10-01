@@ -29,7 +29,13 @@ Compatible with Two Point Museum Version: **5.0.195248**
 TPM-Mod-Engine will load automatically once Two Point Museum is running.
 Always backup your savegames first before using any modification.
 
-### In-Game Controls
+## Uninstall
+
+To remove the mod simply delete the files
+**winhttp.dll** and **TPM-Mod-Engine.dll**
+from your Two Point Museum Steam game folder.
+   
+## In-Game Controls
 
 - F5 - Show/Hide main control panel
 - F8 - Toggle compact toolbar mode
