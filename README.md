@@ -13,14 +13,14 @@
 - Optimized for smooth gameplay at 60-144 FPS with minimal impact on game performance
 - Works with both DirectX 11 and 12
 
-Compatible with Two Point Museum Version: **5.0.195248**
+Compatible with Two Point Museum Version: **5.0.197724**
 
 ## Screenshots
 <img src="images/0.jpg" width="30%" height="30%" /> <img src="images/1.jpg" width="30%" height="30%" /> <img src="images/2.jpg" width="30%" height="30%" /> <img src="images/3.jpg" width="30%" height="30%" /> <img src="images/4.jpg" width="30%" height="30%" /> <img src="images/5.jpg" width="30%" height="30%" /> <img src="images/6.jpg" width="30%" height="30%" />
 
 ## Installation
 
-1. **[Download](https://github.com/coding-dex/TPM-Mod-Engine/releases/download/release/TPM-Mod-Engine-v1.0.zip) TPM-Mod-Engine**
+1. **[Download](https://github.com/coding-dex/TPM-Mod-Engine/releases/download/release/TPM-Mod-Engine-v1.1.zip) TPM-Mod-Engine**
    
 2. **Extract archive and copy both files winhttp.dll and TPM-Mod-Engine.dll to your Two Point Museum Steam game folder usually located at: C:\Steam\steamapps\common\Two Point Museum**
    
@@ -42,7 +42,11 @@ from your Two Point Museum Steam game folder.
 
 # Changelog
 
-Version 1.0 - Public Release
+**Version 1.1**
+Updated for Two Point Museum Version: 5.0.197724 - no further changes
+
+**Version 1.0**
+First public release for Two Point Museum Version: 5.0.195248
 
 ## CORE ENGINE FEATURES
 
