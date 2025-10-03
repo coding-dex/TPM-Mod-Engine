@@ -18,6 +18,12 @@ Compatible with Two Point Museum Version: **5.0.197724**
 ## Screenshots
 <img src="images/0.jpg" width="30%" height="30%" /> <img src="images/1.jpg" width="30%" height="30%" /> <img src="images/2.jpg" width="30%" height="30%" /> <img src="images/3.jpg" width="30%" height="30%" /> <img src="images/4.jpg" width="30%" height="30%" /> <img src="images/5.jpg" width="30%" height="30%" /> <img src="images/6.jpg" width="30%" height="30%" />
 
+## Showcase Video
+
+[![Watch the video](https://img.youtube.com/vi/fe-lcr3dzsQ/hqdefault.jpg)](https://www.youtube.com/embed/fe-lcr3dzsQ)
+
+[Youtube Link](https://www.youtube.com/watch?v=fe-lcr3dzsQ)
+
 ## Installation
 
 1. **[Download](https://github.com/coding-dex/TPM-Mod-Engine/releases/download/release/TPM-Mod-Engine-v1.1.zip) TPM-Mod-Engine**
@@ -26,15 +32,31 @@ Compatible with Two Point Museum Version: **5.0.197724**
    
 3. **Start Two Point Museum** through Steam or by running TPM.exe
 
-TPM-Mod-Engine will load automatically once Two Point Museum is running.
-Always backup your savegames first before using any modification.
+TPM-Mod-Engine will load automatically once Two Point Museum is running. Always backup your savegames first before using any modification.
 
 ## Uninstall
 
-To remove the mod simply delete the files
-**winhttp.dll** and **TPM-Mod-Engine.dll**
-from your Two Point Museum Steam game folder.
+To remove the mod simply delete the files **winhttp.dll** and **TPM-Mod-Engine.dll** from your Two Point Museum Steam game folder.
    
+## FAQ
+
+1. **Game does not start anymore and network connection error page is shown**
+
+Solution: Uninstall, start game normally to trigger Steam Cloud sync, close Game, install mod again. Cloud Sync is now functional.
+
+2. **Sometimes input is not responding when clicking on overlay UI**
+
+Solution: Use mouse wheel or ALT+TAB to fix input focus when being unable to click on overlay UI. Known bug with input focus restoration.
+
+3. **I can not use the keys W,A,S,D to move the camera when walking on floor using Human Camera Mode**
+
+Solution: These are built-in hotkeys from the game. Make sure you have configured camera hotkeys in Settings menu from game. These camera hotkeys can then be used in FPS camera mode for better camera control.
+
+4. **Why need winhttp.dll**
+
+Solution: It is the same technique (DLL Proxy) used by [BepInEx](https://github.com/BepInEx/BepInEx), [MelonLoader](https://github.com/LavaGang/MelonLoader) and [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) to load Unity mods. It is used to the load the actual game modification **TPM-Mod-Engine.dll** and does not require an executable as loader.
+TPM-Mod-Engine does not have any 3rd party dependencies, everything is written from scratch. Hence no BepInEx, MelonLoader or UnityDoorstop is required to install the mod.
+
 ## In-Game Controls
 
 - F5 - Show/Hide main control panel
