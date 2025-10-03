@@ -24,7 +24,7 @@ Compatible with Two Point Museum Version: **5.0.197724**
 
 [Youtube Link](https://www.youtube.com/watch?v=fe-lcr3dzsQ)
 
-## Installation
+## Install TPM-Mod-Engine
 
 1. **[Download](https://github.com/coding-dex/TPM-Mod-Engine/releases/download/release/TPM-Mod-Engine-v1.1.zip) TPM-Mod-Engine**
    
@@ -34,7 +34,7 @@ Compatible with Two Point Museum Version: **5.0.197724**
 
 TPM-Mod-Engine will load automatically once Two Point Museum is running. Always backup your savegames first before using any modification.
 
-## Uninstall
+## Uninstall TPM-Mod-Engine
 
 To remove the mod simply delete the files **winhttp.dll** and **TPM-Mod-Engine.dll** from your Two Point Museum Steam game folder.
    
@@ -42,15 +42,15 @@ To remove the mod simply delete the files **winhttp.dll** and **TPM-Mod-Engine.d
 
 1. **Game does not start anymore and network connection error page is shown**
 
-Solution: Uninstall, start game normally to trigger Steam Cloud sync, close Game, install mod again. Cloud Sync is now functional.
+Solution: Uninstall TPM-Mod-Engine by removing the two files, then start TPM game to trigger Steam Cloud Sync, close the game, install TPM-Mod-Engine again. Steam Cloud Sync is now functional.
 
 2. **Sometimes input is not responding when clicking on overlay UI**
 
-Solution: Use mouse wheel or ALT+TAB to fix input focus when being unable to click on overlay UI. Known bug with input focus restoration.
+Solution: Use mouse wheel or ALT+TAB in and out to fix input focus when being unable to click on overlay UI. Known bug with input focus restoration which needs to distinguish clicking in-game or overlay UI.
 
 3. **I can not use the keys W,A,S,D to move the camera when walking on floor using Human Camera Mode**
 
-Solution: These are built-in hotkeys from the game. Make sure you have configured camera hotkeys in Settings menu from game. These camera hotkeys can then be used in FPS camera mode for better camera control.
+Solution: These are built-in keyboard control settings  from the game. Make sure you have configured camera hotkeys in Settings menu from game. These camera hotkeys can then be used in FPS camera mode for better camera control.
 
 4. **Why need winhttp.dll**
 
