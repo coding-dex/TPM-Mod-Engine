@@ -13,7 +13,7 @@
 - Optimized for smooth gameplay at 60-144 FPS with minimal impact on game performance
 - Works with both DirectX 11 and 12
 
-Compatible with Two Point Museum Version: **5.0.197724**
+Compatible with Two Point Museum Version: **6.0.199220**
 
 ## Screenshots
 <img src="images/0.jpg" width="30%" height="30%" /> <img src="images/1.jpg" width="30%" height="30%" /> <img src="images/2.jpg" width="30%" height="30%" /> <img src="images/3.jpg" width="30%" height="30%" /> <img src="images/4.jpg" width="30%" height="30%" /> <img src="images/5.jpg" width="30%" height="30%" /> <img src="images/6.jpg" width="30%" height="30%" />
@@ -26,7 +26,7 @@ Compatible with Two Point Museum Version: **5.0.197724**
 
 ## Install TPM-Mod-Engine
 
-1. **[Download](https://github.com/coding-dex/TPM-Mod-Engine/releases/download/release/TPM-Mod-Engine-v1.1.zip) TPM-Mod-Engine**
+1. **[Download](https://github.com/coding-dex/TPM-Mod-Engine/releases/download/release/TPM-Mod-Engine-v1.2.zip) TPM-Mod-Engine**
    
 2. **Extract archive and copy both files winhttp.dll and TPM-Mod-Engine.dll to your Two Point Museum Steam game folder usually located at: C:\Steam\steamapps\common\Two Point Museum**
    
@@ -52,7 +52,7 @@ Solution: Use mouse wheel or ALT+TAB in and out to fix input focus when being un
 
 Solution: These are built-in keyboard control settings  from the game. Make sure you have configured camera hotkeys in Settings menu from game. These camera hotkeys can then be used in FPS camera mode for better camera control.
 
-4. **Why need winhttp.dll**
+4. **Why is winhttp.dll needed?**
 
 Solution: It is the same technique (DLL Proxy) used by [BepInEx](https://github.com/BepInEx/BepInEx), [MelonLoader](https://github.com/LavaGang/MelonLoader) and [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) to load Unity mods. It is used to the load the actual game modification **TPM-Mod-Engine.dll** and does not require an executable as loader.
 TPM-Mod-Engine does not have any 3rd party dependencies, everything is written from scratch. Hence no BepInEx, MelonLoader or UnityDoorstop is required to install the mod.
@@ -63,6 +63,9 @@ TPM-Mod-Engine does not have any 3rd party dependencies, everything is written f
 - F8 - Toggle compact toolbar mode
 
 # Changelog
+
+**Version 1.2**
+Updated for Two Point Museum Version: 6.0.199220 - no further changes
 
 **Version 1.1**
 Updated for Two Point Museum Version: 5.0.197724 - no further changes
