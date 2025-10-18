@@ -1,6 +1,6 @@
 <img src="images/logo.png" width="50%" height="50%" />
 
-# TPM-Mod-Engine
+# TPM-Mod-Engine - IL2CPP Mod for Two Point Museum
 
 **FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY**
 
