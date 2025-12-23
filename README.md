@@ -1,6 +1,6 @@
 <img src="images/logo.png" width="50%" height="50%" />
 
-# TPM-Mod-Engine - IL2CPP Mod for Two Point Museum
+# TPM-Mod-Engine
 
 **FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY**
 
@@ -63,6 +63,10 @@ TPM-Mod-Engine does not have any 3rd party dependencies, everything is written f
 - F8 - Toggle compact toolbar mode
 
 # Changelog
+
+**Version 1.3**
+- Updated for Two Point Museum Version: 7.2.208289
+- character appearance (hair, skin) removed due internal game changes
 
 **Version 1.2**
 Updated for Two Point Museum Version: 6.0.199220 - no further changes
