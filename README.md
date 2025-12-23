@@ -26,7 +26,7 @@ Compatible with Two Point Museum Version: **6.0.199220**
 
 ## Install TPM-Mod-Engine
 
-1. **[Download](https://github.com/coding-dex/TPM-Mod-Engine/releases/download/release/TPM-Mod-Engine-v1.2.zip) TPM-Mod-Engine**
+1. **Download TPM-Mod-Engine**
    
 2. **Extract archive and copy both files winhttp.dll and TPM-Mod-Engine.dll to your Two Point Museum Steam game folder usually located at: C:\Steam\steamapps\common\Two Point Museum**
    
